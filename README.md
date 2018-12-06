@@ -10,7 +10,7 @@
   + 注册
    ![注册](https://github.com/BLBJ/CRM-system/blob/master/crm_image/register.png)
   + 普通会员登录后页面
-  ![注册](https://github.com/BLBJ/CRM-system/blob/master/crm_image/pg_member.png)
+  ![普通会员登录后页面](https://github.com/BLBJ/CRM-system/blob/master/crm_image/pg_member.png)
   + 管理员登录后页面
   ![管理员登录后页面](https://github.com/BLBJ/CRM-system/blob/master/crm_image/pg_user_admin.png)
 
