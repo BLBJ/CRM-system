@@ -1,0 +1,478 @@
+[2018/11/02 15:26:43] [INFO]  [ 已加载路由:
+ [
+  "/",
+  "/"
+] ]  5196
+[2018/11/02 15:27:20] [INFO]  [ 已加载路由:
+ [
+  "/",
+  "/user"
+] ]  1268
+[2018/11/02 15:28:21] [INFO]  [ 已加载路由:
+ [
+  "/",
+  "/user"
+] ]  10776
+[2018/11/02 15:28:21] [INFO]  [ Web服务启动完成，端口:3000 ]  10776
+[2018/11/02 15:29:57] [INFO]  [ 已加载路由:
+ [
+  "/",
+  "/user"
+] ]  8188
+[2018/11/02 15:32:28] [INFO]  [ Web服务启动完成，端口:3000 ]  8188
+[2018/11/02 15:32:31] [INFO]  [ 已加载路由:
+ [
+  "/",
+  "/user"
+] ]  11128
+[2018/11/02 15:32:31] [INFO]  [ Web服务启动完成，port 3000 ]  11128
+[2018/11/02 15:33:13] [INFO]  [ 已加载路由:
+ [
+  "/",
+  "/user"
+] ]  6696
+[2018/11/02 15:33:13] [INFO]  [ Web服务启动完成，地址:NaN 端口:3000 ]  6696
+[2018/11/02 15:33:20] [INFO]  [ 已加载路由:
+ [
+  "/",
+  "/user"
+] ]  3104
+[2018/11/02 15:33:33] [INFO]  [ Web服务启动完成，地址:NaN 端口:3000 ]  3104
+[2018/11/02 15:33:41] [INFO]  [ 已加载路由:
+ [
+  "/",
+  "/user"
+] ]  11140
+[2018/11/02 15:33:43] [INFO]  [ Web服务启动完成，地址::: 端口:3000 ]  11140
+[2018/11/02 15:34:38] [INFO]  [ 已加载路由:
+ [
+  "/",
+  "/user"
+] ]  5912
+[2018/11/02 15:34:38] [INFO]  [ Web服务启动完成,端口:3000 ]  5912
+[2018/11/02 15:34:44] [INFO]  [ :sessionId, 17ms, [/] ]  5912
+[2018/11/02 15:53:42] [INFO]  [ :sessionId, 13ms, [/] ]  5912
+[2018/11/02 15:55:19] [INFO]  [ :sessionId, 4ms, [/] ]  5912
+[2018/12/04 14:24:00] [INFO]  [ 已加载路由:
+ [
+  "/",
+  "/menu",
+  "/err",
+  "/login",
+  "/register",
+  "/password",
+  "/user/login",
+  "/user/register",
+  "/getCode",
+  "/editPassword",
+  "/user",
+  "/user"
+] ]  7964
+[2018/12/04 14:24:00] [INFO]  [ Web服务启动完成,端口:3000 ]  7964
+[2018/12/04 14:24:01] [INFO]  [ 数据库连接成功！ ]  7964
+[2018/12/04 14:26:51] [INFO]  [ :sessionId, 7ms, [/] ]  7964
+[2018/12/04 14:26:51] [INFO]  [ :sessionId, 162ms, [/favicon.ico] ]  7964
+[2018/12/04 14:29:18] [INFO]  [ 已加载路由:
+ [
+  "/",
+  "/menu",
+  "/err",
+  "/login",
+  "/register",
+  "/password",
+  "/user/login",
+  "/user/register",
+  "/getCode",
+  "/editPassword",
+  "/user",
+  "/user"
+] ]  7036
+[2018/12/04 14:29:18] [INFO]  [ Web服务启动完成,端口:3000 ]  7036
+[2018/12/04 14:29:19] [INFO]  [ 数据库连接成功！ ]  7036
+[2018/12/04 14:29:29] [INFO]  [ :sessionId, 6ms, [/] ]  7036
+[2018/12/04 14:29:30] [INFO]  [ :sessionId, 2ms, [/] ]  7036
+[2018/12/04 14:30:33] [INFO]  [ :sessionId, 2ms, [/] ]  7036
+[2018/12/04 14:30:34] [INFO]  [ :sessionId, 1ms, [/] ]  7036
+[2018/12/04 14:31:21] [INFO]  [ :sessionId, 2ms, [/] ]  7036
+[2018/12/04 14:31:24] [INFO]  [ :sessionId, 1ms, [/] ]  7036
+[2018/12/04 14:32:25] [INFO]  [ :sessionId, 1ms, [/] ]  7036
+[2018/12/04 14:32:48] [INFO]  [ :sessionId, 1ms, [/] ]  7036
+[2018/12/04 14:33:48] [INFO]  [ 数据库连接成功！ ]  6484
+[2018/12/04 14:34:33] [INFO]  [ 已加载路由:
+ [
+  "/",
+  "/menu",
+  "/err",
+  "/login",
+  "/register",
+  "/password",
+  "/user/login",
+  "/user/register",
+  "/getCode",
+  "/editPassword",
+  "/user"
+] ]  7684
+[2018/12/04 14:34:33] [INFO]  [ Web服务启动完成,端口:3000 ]  7684
+[2018/12/04 14:34:33] [INFO]  [ 数据库连接成功！ ]  7684
+[2018/12/04 14:34:37] [INFO]  [ :sessionId, 10ms, [/] ]  7684
+[2018/12/04 14:40:43] [INFO]  [ :sessionId, 218322ms, [/] ]  7684
+[2018/12/04 14:40:47] [INFO]  [ 已加载路由:
+ [
+  "/",
+  "/menu",
+  "/err",
+  "/login",
+  "/register",
+  "/password",
+  "/user/login",
+  "/user/register",
+  "/getCode",
+  "/editPassword",
+  "/user"
+] ]  7092
+[2018/12/04 14:40:47] [INFO]  [ Web服务启动完成,端口:3000 ]  7092
+[2018/12/04 14:40:47] [INFO]  [ 数据库连接成功！ ]  7092
+[2018/12/04 14:40:56] [INFO]  [ :sessionId, 6460ms, [/] ]  7092
+[2018/12/04 14:41:00] [INFO]  [ :sessionId, 4ms, [/] ]  7092
+[2018/12/04 14:42:12] [INFO]  [ :sessionId, 56060ms, [/] ]  7092
+[2018/12/04 14:42:15] [INFO]  [ 已加载路由:
+ [
+  "/",
+  "/menu",
+  "/err",
+  "/login",
+  "/register",
+  "/password",
+  "/user/login",
+  "/user/register",
+  "/getCode",
+  "/editPassword",
+  "/user"
+] ]  12164
+[2018/12/04 14:42:15] [INFO]  [ Web服务启动完成,端口:3000 ]  12164
+[2018/12/04 14:42:15] [INFO]  [ 数据库连接成功！ ]  12164
+[2018/12/04 14:42:29] [INFO]  [ :sessionId, 7173ms, [/] ]  12164
+[2018/12/04 14:42:49] [INFO]  [ :sessionId, 11083ms, [/] ]  12164
+[2018/12/04 14:43:14] [INFO]  [ :sessionId, 13044ms, [/] ]  12164
+[2018/12/04 14:44:54] [INFO]  [ :sessionId, 69058ms, [/] ]  12164
+[2018/12/04 14:46:09] [INFO]  [ 已加载路由:
+ [
+  "/",
+  "/menu",
+  "/err",
+  "/login",
+  "/register",
+  "/password",
+  "/user/login",
+  "/user/register",
+  "/getCode",
+  "/editPassword",
+  "/user"
+] ]  1984
+[2018/12/04 14:46:09] [INFO]  [ Web服务启动完成,端口:3000 ]  1984
+[2018/12/04 14:46:09] [INFO]  [ 数据库连接成功！ ]  1984
+[2018/12/04 14:46:11] [INFO]  [ :sessionId, 81ms, [/] ]  1984
+[2018/12/04 14:46:11] [INFO]  [ :sessionId, 78ms, [/login] ]  1984
+[2018/12/04 14:46:11] [INFO]  [ :sessionId, 55ms, [/vendors/bootstrap/dist/css/bootstrap.min.css] ]  1984
+[2018/12/04 14:46:11] [INFO]  [ :sessionId, 19ms, [/vendors/font-awesome/css/font-awesome.min.css] ]  1984
+[2018/12/04 14:46:11] [INFO]  [ :sessionId, 20ms, [/vendors/nprogress/nprogress.css] ]  1984
+[2018/12/04 14:46:11] [INFO]  [ :sessionId, 20ms, [/vendors/iCheck/skins/flat/green.css] ]  1984
+[2018/12/04 14:46:11] [INFO]  [ :sessionId, 20ms, [/vendors/bootstrap-daterangepicker/daterangepicker.css] ]  1984
+[2018/12/04 14:46:11] [INFO]  [ :sessionId, 26ms, [/vendors/jstree/dist/themes/default/style.min.css] ]  1984
+[2018/12/04 14:46:12] [INFO]  [ :sessionId, 20ms, [/vendors/switchery/dist/switchery.min.css] ]  1984
+[2018/12/04 14:46:12] [INFO]  [ :sessionId, 21ms, [/vendors/jQuery-Smart-Wizard/styles/smart_wizard.css] ]  1984
+[2018/12/04 14:46:12] [INFO]  [ :sessionId, 20ms, [/vendors/datatables.net-bs/css/dataTables.bootstrap.min.css] ]  1984
+[2018/12/04 14:46:12] [INFO]  [ :sessionId, 20ms, [/build/css/custom.css] ]  1984
+[2018/12/04 14:46:12] [INFO]  [ :sessionId, 21ms, [/vendors/jquery/dist/jquery.min.js] ]  1984
+[2018/12/04 14:46:12] [INFO]  [ :sessionId, 26ms, [/vendors/animate.css/animate.min.css] ]  1984
+[2018/12/04 14:46:12] [INFO]  [ :sessionId, 5ms, [/vendors/bootstrap/dist/js/bootstrap.min.js] ]  1984
+[2018/12/04 14:46:12] [INFO]  [ :sessionId, 12ms, [/vendors/fastclick/lib/fastclick.js] ]  1984
+[2018/12/04 14:46:12] [INFO]  [ :sessionId, 19ms, [/vendors/nprogress/nprogress.js] ]  1984
+[2018/12/04 14:46:12] [INFO]  [ :sessionId, 18ms, [/vendors/bootstrap-progressbar/bootstrap-progressbar.min.js] ]  1984
+[2018/12/04 14:46:12] [INFO]  [ :sessionId, 18ms, [/vendors/iCheck/icheck.min.js] ]  1984
+[2018/12/04 14:46:12] [INFO]  [ :sessionId, 11ms, [/vendors/moment/min/moment.min.js] ]  1984
+[2018/12/04 14:46:12] [INFO]  [ :sessionId, 10ms, [/vendors/bootstrap-daterangepicker/daterangepicker.js] ]  1984
+[2018/12/04 14:46:12] [INFO]  [ :sessionId, 4ms, [/vendors/bootstrap-wysiwyg/js/bootstrap-wysiwyg.min.js] ]  1984
+[2018/12/04 14:46:12] [INFO]  [ :sessionId, 6ms, [/vendors/jquery.hotkeys/jquery.hotkeys.js] ]  1984
+[2018/12/04 14:46:12] [INFO]  [ :sessionId, 13ms, [/vendors/google-code-prettify/src/prettify.js] ]  1984
+[2018/12/04 14:46:12] [INFO]  [ :sessionId, 13ms, [/vendors/jquery.tagsinput/src/jquery.tagsinput.js] ]  1984
+[2018/12/04 14:46:12] [INFO]  [ :sessionId, 13ms, [/vendors/switchery/dist/switchery.min.js] ]  1984
+[2018/12/04 14:46:12] [INFO]  [ :sessionId, 9ms, [/vendors/select2/dist/js/select2.full.min.js] ]  1984
+[2018/12/04 14:46:12] [INFO]  [ :sessionId, 5ms, [/vendors/parsleyjs/dist/parsley.min.js] ]  1984
+[2018/12/04 14:46:12] [INFO]  [ :sessionId, 7ms, [/vendors/autosize/dist/autosize.min.js] ]  1984
+[2018/12/04 14:46:12] [INFO]  [ :sessionId, 36ms, [/vendors/devbridge-autocomplete/dist/jquery.autocomplete.min.js] ]  1984
+[2018/12/04 14:46:12] [INFO]  [ :sessionId, 36ms, [/vendors/switchery/dist/switchery.js] ]  1984
+[2018/12/04 14:46:12] [INFO]  [ :sessionId, 49ms, [/vendors/jstree/dist/jstree.min.js] ]  1984
+[2018/12/04 14:46:12] [INFO]  [ :sessionId, 49ms, [/vendors/starrr/dist/starrr.js] ]  1984
+[2018/12/04 14:46:12] [INFO]  [ :sessionId, 49ms, [/vendors/jQuery-Smart-Wizard/js/jquery.smartWizard.js] ]  1984
+[2018/12/04 14:46:12] [INFO]  [ :sessionId, 12ms, [/vendors/datatables.net/js/jquery.dataTables.js] ]  1984
+[2018/12/04 14:46:12] [INFO]  [ :sessionId, 23ms, [/vendors/datatables.net-bs/js/dataTables.bootstrap.min.js] ]  1984
+[2018/12/04 14:46:12] [INFO]  [ :sessionId, 23ms, [/build/src/ace.js] ]  1984
+[2018/12/04 14:46:12] [INFO]  [ :sessionId, 12ms, [/vendors/bootstrap/dist/js/bootstrap.min.js] ]  1984
+[2018/12/04 14:46:12] [INFO]  [ :sessionId, 14ms, [/javascripts/login.min.js] ]  1984
+[2018/12/04 14:46:12] [INFO]  [ :sessionId, 10ms, [/vendors/fastclick/lib/fastclick.js] ]  1984
+[2018/12/04 14:46:12] [INFO]  [ :sessionId, 8ms, [/vendors/nprogress/nprogress.js] ]  1984
+[2018/12/04 14:46:12] [INFO]  [ :sessionId, 75ms, [/vendors/bootstrap-progressbar/bootstrap-progressbar.min.js] ]  1984
+[2018/12/04 14:46:12] [INFO]  [ :sessionId, 6ms, [/vendors/iCheck/icheck.min.js] ]  1984
+[2018/12/04 14:46:12] [INFO]  [ :sessionId, 3ms, [/vendors/moment/min/moment.min.js] ]  1984
+[2018/12/04 14:46:12] [INFO]  [ :sessionId, 11ms, [/vendors/bootstrap-daterangepicker/daterangepicker.js] ]  1984
+[2018/12/04 14:46:12] [INFO]  [ :sessionId, 5ms, [/vendors/bootstrap-wysiwyg/js/bootstrap-wysiwyg.min.js] ]  1984
+[2018/12/04 14:46:12] [INFO]  [ :sessionId, 4ms, [/vendors/jquery.hotkeys/jquery.hotkeys.js] ]  1984
+[2018/12/04 14:46:12] [INFO]  [ :sessionId, 5ms, [/vendors/google-code-prettify/src/prettify.js] ]  1984
+[2018/12/04 14:46:12] [INFO]  [ :sessionId, 4ms, [/vendors/jquery.tagsinput/src/jquery.tagsinput.js] ]  1984
+[2018/12/04 14:46:12] [INFO]  [ :sessionId, 4ms, [/vendors/switchery/dist/switchery.min.js] ]  1984
+[2018/12/04 14:46:12] [INFO]  [ :sessionId, 6ms, [/vendors/select2/dist/js/select2.full.min.js] ]  1984
+[2018/12/04 14:46:12] [INFO]  [ :sessionId, 4ms, [/vendors/parsleyjs/dist/parsley.min.js] ]  1984
+[2018/12/04 14:46:12] [INFO]  [ :sessionId, 7ms, [/vendors/autosize/dist/autosize.min.js] ]  1984
+[2018/12/04 14:46:12] [INFO]  [ :sessionId, 5ms, [/vendors/devbridge-autocomplete/dist/jquery.autocomplete.min.js] ]  1984
+[2018/12/04 14:46:12] [INFO]  [ :sessionId, 5ms, [/vendors/switchery/dist/switchery.js] ]  1984
+[2018/12/04 14:46:12] [INFO]  [ :sessionId, 6ms, [/vendors/jstree/dist/jstree.min.js] ]  1984
+[2018/12/04 14:46:12] [INFO]  [ :sessionId, 3ms, [/vendors/starrr/dist/starrr.js] ]  1984
+[2018/12/04 14:46:12] [INFO]  [ :sessionId, 11ms, [/vendors/jQuery-Smart-Wizard/js/jquery.smartWizard.js] ]  1984
+[2018/12/04 14:46:12] [INFO]  [ :sessionId, 6ms, [/vendors/datatables.net/js/jquery.dataTables.js] ]  1984
+[2018/12/04 14:46:12] [INFO]  [ :sessionId, 3ms, [/vendors/datatables.net-bs/js/dataTables.bootstrap.min.js] ]  1984
+[2018/12/04 14:46:12] [INFO]  [ :sessionId, 3ms, [/build/src/ace.js] ]  1984
+[2018/12/04 14:46:12] [INFO]  [ :sessionId, 4ms, [/javascripts/login.min.js] ]  1984
+[2018/12/04 15:01:45] [INFO]  [ 数据库连接成功！ ]  2104
+[2018/12/04 15:03:12] [INFO]  [ 已加载路由:
+ [
+  "/",
+  "/menu",
+  "/err",
+  "/login",
+  "/register",
+  "/password",
+  "/user/login",
+  "/user/register",
+  "/getCode",
+  "/editPassword",
+  "/user"
+] ]  11108
+[2018/12/04 15:03:12] [INFO]  [ Web服务启动完成,端口:3000 ]  11108
+[2018/12/04 15:03:12] [INFO]  [ 数据库连接成功！ ]  11108
+[2018/12/04 15:03:14] [INFO]  [ :sessionId, 23ms, [/login] ]  11108
+[2018/12/04 15:03:14] [INFO]  [ :sessionId, 8ms, [/javascripts/login.min.js] ]  11108
+[2018/12/04 15:03:17] [INFO]  [ :sessionId, 3ms, [/javascripts/login.min.js] ]  11108
+[2018/12/04 15:07:15] [INFO]  [ :sessionId, 9ms, [/login] ]  11108
+[2018/12/04 15:08:49] [INFO]  [ :sessionId, 7ms, [/login] ]  11108
+[2018/12/04 15:09:12] [INFO]  [ :sessionId, 285ms, [/user/register] ]  11108
+[2018/12/04 15:09:13] [INFO]  [ :sessionId, 8ms, [/login] ]  11108
+[2018/12/04 15:09:26] [INFO]  [ :sessionId, 265ms, [/user/login] ]  11108
+[2018/12/04 15:09:26] [INFO]  [ :sessionId, 35ms, [/] ]  11108
+[2018/12/04 15:09:28] [INFO]  [ :sessionId, 4ms, [/menu] ]  11108
+[2018/12/04 15:09:43] [INFO]  [ :sessionId, 6ms, [/login.html] ]  11108
+[2018/12/04 15:09:46] [INFO]  [ :sessionId, 9ms, [/] ]  11108
+[2018/12/04 15:09:47] [INFO]  [ :sessionId, 2ms, [/menu] ]  11108
+[2018/12/04 15:11:34] [INFO]  [ :sessionId, 14ms, [/] ]  11108
+[2018/12/04 15:11:35] [INFO]  [ :sessionId, 3ms, [/menu] ]  11108
+[2018/12/04 15:12:07] [INFO]  [ :sessionId, 8ms, [/] ]  11108
+[2018/12/04 15:12:08] [INFO]  [ :sessionId, 4ms, [/menu] ]  11108
+[2018/12/04 15:14:35] [INFO]  [ :sessionId, 7ms, [/] ]  11108
+[2018/12/04 15:14:35] [INFO]  [ :sessionId, 6ms, [/login] ]  11108
+[2018/12/04 15:14:43] [INFO]  [ :sessionId, 746ms, [/user/login] ]  11108
+[2018/12/04 15:14:43] [INFO]  [ :sessionId, 112ms, [/user/login] ]  11108
+[2018/12/04 15:14:43] [INFO]  [ :sessionId, 13ms, [/] ]  11108
+[2018/12/04 15:14:44] [INFO]  [ :sessionId, 2ms, [/menu] ]  11108
+[2018/12/04 15:20:36] [INFO]  [ :sessionId, 4ms, [/] ]  11108
+[2018/12/04 15:20:36] [INFO]  [ :sessionId, 107ms, [/login] ]  11108
+[2018/12/04 15:20:41] [INFO]  [ :sessionId, 443ms, [/user/login] ]  11108
+[2018/12/04 15:20:41] [INFO]  [ :sessionId, 219ms, [/user/login] ]  11108
+[2018/12/04 15:20:41] [INFO]  [ :sessionId, 12ms, [/] ]  11108
+[2018/12/04 15:20:42] [INFO]  [ :sessionId, 7ms, [/menu] ]  11108
+[2018/12/04 15:25:57] [INFO]  [ 已加载路由:
+ [
+  "/",
+  "/menu",
+  "/err",
+  "/login",
+  "/register",
+  "/password",
+  "/user/login",
+  "/user/register",
+  "/getCode",
+  "/editPassword",
+  "/user"
+] ]  4340
+[2018/12/04 15:25:57] [INFO]  [ Web服务启动完成,端口:3000 ]  4340
+[2018/12/04 15:25:58] [INFO]  [ 数据库连接成功！ ]  4340
+[2018/12/04 15:26:00] [INFO]  [ :sessionId, 22ms, [/] ]  4340
+[2018/12/04 15:26:01] [INFO]  [ :sessionId, 4ms, [/menu] ]  4340
+[2018/12/04 15:26:03] [INFO]  [ :sessionId, 15ms, [/] ]  4340
+[2018/12/04 15:26:04] [INFO]  [ :sessionId, 3ms, [/menu] ]  4340
+[2018/12/04 15:26:05] [INFO]  [ :sessionId, 13ms, [/] ]  4340
+[2018/12/04 15:26:05] [INFO]  [ :sessionId, 4ms, [/menu] ]  4340
+[2018/12/04 15:30:15] [INFO]  [ :sessionId, 10ms, [/] ]  4340
+[2018/12/04 15:30:16] [INFO]  [ :sessionId, 3ms, [/menu] ]  4340
+[2018/12/04 15:34:05] [INFO]  [ :sessionId, 7ms, [/] ]  4340
+[2018/12/04 15:34:06] [INFO]  [ :sessionId, 2ms, [/menu] ]  4340
+[2018/12/04 15:37:42] [INFO]  [ :sessionId, 11ms, [/] ]  4340
+[2018/12/04 15:37:45] [INFO]  [ :sessionId, 1584ms, [/menu] ]  4340
+[2018/12/04 16:02:49] [INFO]  [ :sessionId, 10ms, [/] ]  4340
+[2018/12/04 16:02:49] [INFO]  [ :sessionId, 85ms, [/vendors/jstree/dist/themes/default/style.min.css] ]  4340
+[2018/12/04 16:02:49] [INFO]  [ :sessionId, 9ms, [/vendors/jstree/dist/jstree.min.js] ]  4340
+[2018/12/04 16:02:49] [INFO]  [ :sessionId, 4ms, [/vendors/jstree/dist/jstree.min.js] ]  4340
+[2018/12/04 16:02:50] [INFO]  [ :sessionId, 2ms, [/menu] ]  4340
+[2018/12/04 16:05:52] [INFO]  [ :sessionId, 9ms, [/] ]  4340
+[2018/12/04 16:05:52] [INFO]  [ :sessionId, 6ms, [/vendors/jstree/dist/themes/default/style.min.css] ]  4340
+[2018/12/04 16:05:52] [INFO]  [ :sessionId, 6ms, [/vendors/jstree/dist/jstree.min.js] ]  4340
+[2018/12/04 16:05:53] [INFO]  [ :sessionId, 4ms, [/vendors/jstree/dist/jstree.min.js] ]  4340
+[2018/12/04 16:05:53] [INFO]  [ :sessionId, 2ms, [/menu] ]  4340
+[2018/12/04 16:09:30] [INFO]  [ :sessionId, 12ms, [/] ]  4340
+[2018/12/04 16:09:31] [INFO]  [ :sessionId, 3ms, [/menu] ]  4340
+[2018/12/04 16:09:42] [INFO]  [ :sessionId, 5ms, [/login] ]  4340
+[2018/12/04 16:09:46] [INFO]  [ :sessionId, 292ms, [/user/login] ]  4340
+[2018/12/04 16:09:46] [INFO]  [ :sessionId, 12ms, [/] ]  4340
+[2018/12/04 16:09:46] [INFO]  [ :sessionId, 2ms, [/menu] ]  4340
+[2018/12/04 16:10:39] [INFO]  [ :sessionId, 50ms, [/] ]  4340
+[2018/12/04 16:10:39] [INFO]  [ :sessionId, 5ms, [/login] ]  4340
+[2018/12/04 16:10:45] [INFO]  [ :sessionId, 184ms, [/user/login] ]  4340
+[2018/12/04 16:11:00] [INFO]  [ :sessionId, 187ms, [/user/login] ]  4340
+[2018/12/04 16:11:37] [INFO]  [ :sessionId, 6ms, [/login] ]  4340
+[2018/12/04 16:11:42] [INFO]  [ :sessionId, 208ms, [/user/login] ]  4340
+[2018/12/04 16:12:26] [INFO]  [ :sessionId, 7ms, [/login] ]  4340
+[2018/12/04 16:12:37] [INFO]  [ :sessionId, 181ms, [/user/login] ]  4340
+[2018/12/04 16:13:31] [INFO]  [ :sessionId, 8ms, [/login] ]  4340
+[2018/12/04 16:13:38] [INFO]  [ :sessionId, 248ms, [/user/login] ]  4340
+[2018/12/04 16:15:17] [INFO]  [ :sessionId, 21361ms, [/user/login] ]  4340
+[2018/12/04 16:15:38] [INFO]  [ :sessionId, 9ms, [/login] ]  4340
+[2018/12/04 16:16:04] [INFO]  [ :sessionId, 7ms, [/login] ]  4340
+[2018/12/04 16:16:10] [INFO]  [ :sessionId, 2302ms, [/user/login] ]  4340
+[2018/12/04 16:17:11] [INFO]  [ :sessionId, 57118ms, [/user/login] ]  4340
+[2018/12/04 16:17:14] [INFO]  [ :sessionId, 8ms, [/login] ]  4340
+[2018/12/04 16:17:21] [INFO]  [ :sessionId, 4249ms, [/user/login] ]  4340
+[2018/12/04 16:17:21] [INFO]  [ :sessionId, 11ms, [/] ]  4340
+[2018/12/04 16:17:22] [INFO]  [ :sessionId, 2ms, [/menu] ]  4340
+[2018/12/04 16:17:30] [INFO]  [ :sessionId, 132ms, [/user?searchCond=%7B%22page%22:0,%22limit%22:10,%22username%22:%22%22%7D&isFuzzy=true] ]  4340
+[2018/12/04 16:17:44] [INFO]  [ :sessionId, 8ms, [/permission] ]  4340
+[2018/12/04 16:18:43] [INFO]  [ 已加载路由:
+ [
+  "/",
+  "/menu",
+  "/err",
+  "/permission",
+  "/login",
+  "/register",
+  "/password",
+  "/user/login",
+  "/user/register",
+  "/getCode",
+  "/editPassword",
+  "/user"
+] ]  1936
+[2018/12/04 16:18:43] [INFO]  [ Web服务启动完成,端口:3000 ]  1936
+[2018/12/04 16:18:44] [INFO]  [ 数据库连接成功！ ]  1936
+[2018/12/04 16:18:45] [INFO]  [ :sessionId, 37ms, [/] ]  1936
+[2018/12/04 16:18:46] [INFO]  [ :sessionId, 5ms, [/menu] ]  1936
+[2018/12/04 16:18:46] [INFO]  [ :sessionId, 29ms, [/permission] ]  1936
+[2018/12/04 16:19:10] [INFO]  [ :sessionId, 218ms, [/user?searchCond=%7B%22page%22:0,%22limit%22:10,%22username%22:%22%22%7D&isFuzzy=true] ]  1936
+[2018/12/04 16:19:14] [INFO]  [ :sessionId, 18ms, [/permission] ]  1936
+[2018/12/04 16:19:26] [INFO]  [ :sessionId, 16ms, [/user?searchCond=%7B%22page%22:0,%22limit%22:10,%22username%22:%22%22%7D&isFuzzy=true] ]  1936
+[2018/12/04 16:19:36] [INFO]  [ :sessionId, 20ms, [/permission] ]  1936
+[2018/12/04 16:24:44] [INFO]  [ :sessionId, 203ms, [/user?searchCond=%7B%22page%22:0,%22limit%22:10,%22username%22:%22%22%7D&isFuzzy=true] ]  1936
+[2018/12/04 16:25:23] [INFO]  [ :sessionId, 257ms, [/user] ]  1936
+[2018/12/04 16:30:12] [INFO]  [ :sessionId, 9ms, [/login] ]  1936
+[2018/12/04 16:30:14] [INFO]  [ :sessionId, 412ms, [/getCode?searchCond=%7B%22username%22:%22wbding%22%7D] ]  1936
+[2018/12/04 16:45:25] [INFO]  [ :sessionId, 14ms, [/password] ]  1936
+[2018/12/04 17:03:28] [INFO]  [ 已加载路由:
+ [
+  "/",
+  "/menu",
+  "/err",
+  "/permission",
+  "/login",
+  "/register",
+  "/user/login",
+  "/user/register",
+  "/user"
+] ]  10048
+[2018/12/04 17:03:28] [INFO]  [ Web服务启动完成,端口:3000 ]  10048
+[2018/12/04 17:03:29] [INFO]  [ 数据库连接成功！ ]  10048
+[2018/12/04 17:05:10] [INFO]  [ 已加载路由:
+ [
+  "/",
+  "/menu",
+  "/err",
+  "/permission",
+  "/login",
+  "/register",
+  "/user/login",
+  "/user/register",
+  "/user"
+] ]  8736
+[2018/12/04 17:05:10] [INFO]  [ Web服务启动完成,端口:3000 ]  8736
+[2018/12/04 17:05:11] [INFO]  [ 数据库连接成功！ ]  8736
+[2018/12/04 17:07:02] [INFO]  [ :sessionId, 25ms, [/login] ]  8736
+[2018/12/04 17:08:12] [INFO]  [ :sessionId, 8ms, [/login] ]  8736
+[2018/12/04 17:08:14] [INFO]  [ :sessionId, 235ms, [/user/login] ]  8736
+[2018/12/04 17:08:25] [INFO]  [ :sessionId, 10ms, [/user/register] ]  8736
+[2018/12/04 17:09:21] [INFO]  [ 已加载路由:
+ [
+  "/",
+  "/menu",
+  "/err",
+  "/permission",
+  "/login",
+  "/register",
+  "/user/login",
+  "/user/register",
+  "/user"
+] ]  11420
+[2018/12/04 17:09:21] [INFO]  [ Web服务启动完成,端口:3000 ]  11420
+[2018/12/04 17:09:22] [INFO]  [ 数据库连接成功！ ]  11420
+[2018/12/04 17:09:23] [INFO]  [ :sessionId, 22ms, [/login] ]  11420
+[2018/12/04 17:09:32] [INFO]  [ :sessionId, 143ms, [/user/register] ]  11420
+[2018/12/04 17:09:33] [INFO]  [ :sessionId, 11ms, [/login] ]  11420
+[2018/12/04 17:09:36] [INFO]  [ :sessionId, 8ms, [/user/login] ]  11420
+[2018/12/04 17:09:36] [INFO]  [ :sessionId, 13ms, [/] ]  11420
+[2018/12/04 17:09:36] [INFO]  [ :sessionId, 3ms, [/menu] ]  11420
+[2018/12/04 17:10:01] [INFO]  [ :sessionId, 19ms, [/] ]  11420
+[2018/12/04 17:10:01] [INFO]  [ :sessionId, 3ms, [/menu] ]  11420
+[2018/12/04 17:10:02] [INFO]  [ :sessionId, 9ms, [/] ]  11420
+[2018/12/04 17:10:02] [INFO]  [ :sessionId, 2ms, [/menu] ]  11420
+[2018/12/04 17:10:03] [INFO]  [ :sessionId, 18ms, [/login] ]  11420
+[2018/12/04 17:10:04] [INFO]  [ :sessionId, 184ms, [/user/login] ]  11420
+[2018/12/04 17:10:04] [INFO]  [ :sessionId, 12ms, [/] ]  11420
+[2018/12/04 17:10:04] [INFO]  [ :sessionId, 3ms, [/menu] ]  11420
+[2018/12/04 17:10:21] [INFO]  [ :sessionId, 134ms, [/user?searchCond=%7B%22page%22:0,%22limit%22:10,%22username%22:%22%22%7D&isFuzzy=true] ]  11420
+[2018/12/05 16:23:34] [INFO]  [ 已加载路由:
+ [
+  "/",
+  "/menu",
+  "/err",
+  "/permission",
+  "/login",
+  "/register",
+  "/user/login",
+  "/user/register",
+  "/user"
+] ]  3812
+[2018/12/05 16:23:34] [INFO]  [ Web服务启动完成,端口:3000 ]  3812
+[2018/12/05 16:23:36] [INFO]  [ 数据库连接成功！ ]  3812
+[2018/12/05 16:23:43] [INFO]  [ :sessionId, 493ms, [/] ]  3812
+[2018/12/05 16:23:46] [INFO]  [ :sessionId, 7ms, [/menu] ]  3812
+[2018/12/05 16:23:46] [INFO]  [ :sessionId, 34ms, [/favicon.ico] ]  3812
+[2018/12/05 16:23:49] [INFO]  [ :sessionId, 638ms, [/user?searchCond=%7B%22page%22:0,%22limit%22:10,%22username%22:%22%22%7D&isFuzzy=true] ]  3812
+[2018/12/05 16:24:44] [INFO]  [ :sessionId, 14ms, [/] ]  3812
+[2018/12/05 16:24:45] [INFO]  [ :sessionId, 3ms, [/menu] ]  3812
+[2018/12/05 16:24:46] [INFO]  [ :sessionId, 475ms, [/user?searchCond=%7B%22page%22:0,%22limit%22:10,%22username%22:%22%22%7D&isFuzzy=true] ]  3812
+[2018/12/05 16:24:50] [INFO]  [ :sessionId, 12ms, [/] ]  3812
+[2018/12/05 16:24:50] [INFO]  [ :sessionId, 7ms, [/user?searchCond=%7B%22page%22:0,%22limit%22:10,%22username%22:%22%22%7D&isFuzzy=true] ]  3812
+[2018/12/05 16:24:50] [INFO]  [ :sessionId, 4ms, [/menu] ]  3812
+[2018/12/05 16:31:32] [INFO]  [ 已加载路由:
+ [
+  "/",
+  "/menu",
+  "/err",
+  "/permission",
+  "/login",
+  "/register",
+  "/user/login",
+  "/user/register",
+  "/user"
+] ]  9472
+[2018/12/05 16:31:32] [INFO]  [ Web服务启动完成,端口:3000 ]  9472
+[2018/12/05 16:31:33] [INFO]  [ 数据库连接成功！ ]  9472
+[2018/12/05 16:33:04] [INFO]  [ :sessionId, 32ms, [/] ]  9472
+[2018/12/05 16:33:05] [INFO]  [ :sessionId, 8ms, [/menu] ]  9472
+[2018/12/05 16:33:06] [INFO]  [ :sessionId, 961ms, [/user?searchCond=%7B%22page%22:0,%22limit%22:10,%22username%22:%22%22%7D&isFuzzy=true] ]  9472
+[2018/12/05 16:33:14] [INFO]  [ :sessionId, 23ms, [/permission] ]  9472
